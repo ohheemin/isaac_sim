@@ -4,19 +4,19 @@
 
 # 환경
 
-isaac sim 에서 실행하는 moveit, nav2 project.
+- Isaac Sim, MoveIt, Nav2.
 
-ubuntu 22.04 환경에서 진행하였음
+- Ubuntu 22.04
 
-humble 기준.
+- ROS2 Humble
 
 # launch files
 
-ros2 launch isaac_moveit pick_and_place.launch.py
+Franka Emika | ros2 launch isaac_moveit pick_and_place.launch.py
 
 franka on conveyor belt, pick and place working
 
 
-ros2 launch isaac_moveit tm12.launch.py
+TM12 | ros2 launch isaac_moveit tm12.launch.py
 
 tm12 on conveyor belt, pick and place working
