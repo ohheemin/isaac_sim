@@ -4,6 +4,8 @@
 
 # 환경
 
+<img width="50" height="50" alt="스크린샷 2025-11-06 14-53-52" src="https://github.com/user-attachments/assets/0cf5956a-5729-4d64-80b1-b8b9e7a81a8c" />
+
 - Isaac Sim, MoveIt, Nav2.
 
 - Ubuntu 22.04
