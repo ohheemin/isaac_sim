@@ -17,6 +17,6 @@ ros2 launch isaac_moveit pick_and_place.launch.py
 franka on conveyor belt, pick and place working
 
 
-ros2 laucnh isaac_moveit tm12.launch.py
+ros2 launch isaac_moveit tm12.launch.py
 
 tm12 on conveyor belt, pick and place working
