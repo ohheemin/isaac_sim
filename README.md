@@ -1,6 +1,7 @@
 # isaac_sim
 
-[스크린캐스트 12-23-2025 12:53:52 PM.webm](https://github.com/user-attachments/assets/823e5557-a63a-4877-8b0a-9bef3dfe617d)
+[PickAndPlace.webm](https://github.com/user-attachments/assets/caa9a75a-155d-4e93-937f-0d8fefffe927)
+
 <img width="500" height="300" alt="스크린샷 2025-11-04 15-21-46" src="https://github.com/user-attachments/assets/a44ba435-6770-4479-b94e-c5a60e9f70da" />
 <img width="500" height="300" alt="스크린샷 2025-12-30 13-27-00" src="https://github.com/user-attachments/assets/0ebbe55d-954a-43aa-9863-d1df82de1aff" />
 
