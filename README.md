@@ -8,7 +8,9 @@
 
 <img width="150" height="150" alt="스크린샷 2025-11-06 14-53-52" src="https://github.com/user-attachments/assets/0cf5956a-5729-4d64-80b1-b8b9e7a81a8c" />
 
-- Isaac Sim, MoveIt, Nav2.
+- Isaac Sim
+
+- MoveIt, Nav2 API
 
 - Ubuntu 22.04
 
