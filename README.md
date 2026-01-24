@@ -1,4 +1,4 @@
-# isaac_sim
+# Isaac Sim
 
 [PickAndPlace.webm](https://github.com/user-attachments/assets/caa9a75a-155d-4e93-937f-0d8fefffe927)
 
