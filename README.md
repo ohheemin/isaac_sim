@@ -3,6 +3,7 @@
 [PickAndPlace.webm](https://github.com/user-attachments/assets/caa9a75a-155d-4e93-937f-0d8fefffe927)
 
 <img width="500" height="300" alt="스크린샷 2025-12-30 13-27-00" src="https://github.com/user-attachments/assets/0ebbe55d-954a-43aa-9863-d1df82de1aff" />
+<img width="250" height="250" alt="스크린샷 2025-11-06 19-01-36" src="https://github.com/user-attachments/assets/96b30b82-da1c-4305-ba41-42f623ec7803" />
 
 # 환경
 
