@@ -16,7 +16,7 @@
 
 - ROS2 Humble
 
-# launch files
+# Launch files (Enable switches)
 
 <img width="300" height="200" alt="스크린샷 2025-12-29 22-38-19" src="https://github.com/user-attachments/assets/85aa42dc-d378-4c06-9df3-a7c633340458" />
 
